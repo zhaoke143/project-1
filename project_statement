@@ -1,0 +1,24 @@
+Project Statement
+
+Questions/Hypothesis :
+
+    1. Did the number of incidents of 'petty theft or grand theft' change, when in 2010 Penal Code § 487 was amended to increase the amount of property fitting the definition of petty theft.  The amount of property increased from $400 to $950.  Any theft valued at $950 or below is consequently now petty theft; any theft of property with value above $950 is grand theft.
+    
+    2. Are incidents of petty theft predominant in any particular neighborhood and did the trend change due to the amendment consistently across all?
+
+    3. What is the economic profile of the neighborhood with the highest number of incidents.
+
+    4. Are the trends in SF in line with the general trends in other cities ? ( Stretch goal. Maybe compared to Sacramento)
+    
+
+Source Datasets:
+
+Data.sfgov.org -
+        a. Police Incident report 2003 to 2018
+            i.  https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+        b. Map of Incident reports
+            i. https://data.sfgov.org/Public-Safety/Map-of-Police-Department-Incident-Reports-2018-to-/jq29-s5wp
+        c. Neighborhood economic data - socio economic profiles
+            i. https://data.sfgov.org/Geographic-Locations-and-Boundaries/Analysis-Neighborhoods/p5b7-5n3h
+        d. Compare trend with similar data from San Jose, Oakland and Sacramento
+            i. TBD
